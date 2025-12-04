@@ -1,0 +1,6 @@
+user_id,course_id,video_id,watched
+demo_user,course_1,video_1,1
+demo_user,course_1,video_3,1
+demo_user,course_1,video_2,1
+demo_user,course_1,video_1,1
+demo_user,course_2,video_5,1
